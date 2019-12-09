@@ -1,0 +1,5 @@
+"ENTER_URL" = "输入 YouTube 链接";
+"CANNOT_FIND_URL" = "无法找到链接，请重试";
+"DOWNLOADING" = "下载中...";
+"DOWNLOADED" = "已下载：";
+"FINISHED_DOWNLOADING" = "下载完成";

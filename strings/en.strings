@@ -1,0 +1,5 @@
+"ENTER_URL" = "Enter a YouTube URL";
+"CANNOT_FIND_URL" = "Cannot find the link, please retry";
+"DOWNLOADING" = "Downloading...";
+"DOWNLOADED" = "Downloaded: ";
+"FINISHED_DOWNLOADING" = "Finished downloading";
